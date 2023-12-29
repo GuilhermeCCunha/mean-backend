@@ -10,6 +10,9 @@ Este projeto eu fiz durante o curso Angular & NodeJS - The MEAN Stack Guide da  
 - Upload de imagens
 - CRUD
 
+## Frontend
+
+([Veja aqui o repositório do Frontend deste projeto](https://github.com/GuilhermeCCunha/mean-frontend)).
 
 ## Como usá-lo
 
